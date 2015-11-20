@@ -1,0 +1,9 @@
+system:
+  locators:
+  - name: first.com
+    ports:
+      - 103
+      - 105
+  - name: second.com
+    ports:
+      - 105
